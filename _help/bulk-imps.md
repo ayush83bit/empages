@@ -15,7 +15,7 @@ Bulk IMPS (Immediate Payment Service) is a feature that allows retailers to proc
 - Enter the customer's mobile number in the "Mobile Number" field (with +91 country code).
 - Click the **Proceed** button to move to the next screen.
 
-![Search Customer Screen](../images/help/bulk-payment/Screen 1.png)
+![Search Customer Screen](../empages/images/help/bulk-payment/Screen 1.png)
 
 ### Step 2: Enter customer details
 
@@ -23,7 +23,7 @@ Bulk IMPS (Immediate Payment Service) is a feature that allows retailers to proc
 - In the "Customer's Full Name (as per ID proof)" field, enter the customer's name exactly as it appears on their ID proof.
 - Click the **Proceed** button to continue.
 
-![Customer Details Screen](../images/help/bulk-payment/Screen 2.png)
+![Customer Details Screen](../empages/images/help/bulk-payment/Screen 2.png)
 
 ### Step 3: Verify customer with OTP
 
@@ -34,7 +34,7 @@ Bulk IMPS (Immediate Payment Service) is a feature that allows retailers to proc
 - A countdown timer will show when you can resend the OTP (e.g., "Resend OTP in 00:22").
 - Click the **Proceed** button to verify and continue.
 
-![Verify Customer Screen](../images/help/bulk-payment/Screen 3.png)
+![Verify Customer Screen](../empages/images/help/bulk-payment/Screen 3.png)
 
 ### Step 4: Create the recipients file
 
@@ -73,8 +73,8 @@ The Excel file must contain exactly 4 columns in the following order:
 - In the "Secret PIN" field, enter your retailer Secret PIN for authentication.
 - Click the **Upload** button to submit the file.
 
-![Upload Recipients File](../images/help/bulk-payment/Screen 5.png)
-![Upload Recipients File](../images/help/bulk-payment/Screen 6.png)
+![Upload Recipients File](../empages/images/help/bulk-payment/Screen 5.png)
+![Upload Recipients File](../empages/images/help/bulk-payment/Screen 6.png)
 
 
 ### Step 6: Monitor batch processing status
@@ -85,7 +85,7 @@ The Excel file must contain exactly 4 columns in the following order:
 - The file will remain in PROCESSING status until all transactions are completed.
 - Once processed, the status will change to **PROCESSED** with a green checkmark.
 
-![Batch History Screen](../images/help/bulk-payment/Screen 7.png)
+![Batch History Screen](../empages/images/help/bulk-payment/Screen 7.png)
 
 ### Step 7: Download and check transaction results
 
@@ -113,7 +113,7 @@ The downloaded file contains the following columns:
 - Check the **Description** column for specific reasons why transactions failed (e.g., "fund.transfer.failed", "Amount out of range (100-5000)").
 - Use the **TID** and **Tracking Number** for customer reference and tracking purposes.
 
-![Result File Screen](../images/help/bulk-payment/Screen 8.png)
+![Result File Screen](../empages/images/help/bulk-payment/Screen 8.png)
 
 ## Key Points
 
